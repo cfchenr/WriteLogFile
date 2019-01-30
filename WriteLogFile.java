@@ -1,5 +1,3 @@
-package log;
-
 import java.io.*;
 import java.util.Date;
 import java.sql.Timestamp;
